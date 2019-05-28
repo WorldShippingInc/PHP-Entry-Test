@@ -1,10 +1,7 @@
 # PHP-Entry-Test
 ### This is a junior developer test in PHP, HTML, and CSS
 
-
 There are different ways to test your PHP online using a php sandbox which will give you the html code you can save and open in a browser, or there is a way to set up ISS on your computer to display the code. 
-
- **For this piece of the test, you will have a several HTML, CSS and PHP questions.**
 
 *PHP and HTML*
 
