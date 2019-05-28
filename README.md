@@ -1,5 +1,5 @@
 # PHP-Entry-Test
-### This is a junior developer test in PHP, HTML, and CSS
+### This is the junior developer test in PHP, HTML, and CSS for World Shipping, Inc.
 
 There are different ways to test your PHP online using a php sandbox which will give you the html code you can save and open in a browser, or there is a way to set up ISS on your computer to display the code. 
 
